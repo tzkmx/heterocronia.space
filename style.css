@@ -1,0 +1,6 @@
+#experiencia summary p {
+    text-align: right;
+}
+summary h2, summary h3 {
+    display: inline;
+}
